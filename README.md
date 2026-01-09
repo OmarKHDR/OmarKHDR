@@ -276,9 +276,9 @@ Intensive full-stack engineering bootcamp with focus on low-level programming an
 <div align="center">
 
 ## 📊 GitHub Analytics
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OmarKHDR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE4F7&icon_color=6CE4F7&text_color=ffffff" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats-97beuvolb-omars-projects-0e829ec8.vercel.app/api?username=OmarKHDR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE4F7&icon_color=6CE4F7&text_color=ffffff" alt="GitHub Stats" height="170"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OmarKHDR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE4F7&text_color=ffffff" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats-97beuvolb-omars-projects-0e829ec8.vercel.app/api/top-langs/?username=OmarKHDR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE4F7&text_color=ffffff" alt="Top Languages" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarKHDR&theme=tokyonight&hide_border=true&background=0D1117&ring=6CE4F7&fire=6CE4F7&currStreakLabel=6CE4F7" alt="GitHub Streak" />
 
