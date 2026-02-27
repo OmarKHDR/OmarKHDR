@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Location & Status -->
-<img src="https://img.shields.io/badge/📍_Based_in-Cairo,_Egypt-0D1117?style=for-the-badge&labelColor=1a1b27" alt="location"/>
+<img src="https://img.shields.io/badge/📍_Based_in-Alexandria,_Egypt-0D1117?style=for-the-badge&labelColor=1a1b27" alt="location"/>
 <img src="https://img.shields.io/badge/💼_Status-Open_to_Work-00ff88?style=for-the-badge&labelColor=1a1b27" alt="status"/>
 <img src="https://img.shields.io/badge/🎓_Student-Alexandria_University-4a9eff?style=for-the-badge&labelColor=1a1b27" alt="education"/>
 
@@ -29,11 +29,6 @@ I'm a **Backend Engineer** passionate about building **production-grade systems*
 
 Currently developing an autonomous wheelchair control system that bridges the gap between robotics hardware and web interfaces—proving that great backend engineering can literally change lives.
 
-**Recent Wins:**
-- ⚡ **60% faster** page loads through static generation
-- 🚀 **30% reduced** API latency with protocol optimization  
-- 🏗️ Built production systems serving **500+ MAU**
-- 🤖 Architecting real-time robotics control APIs
 
 </td>
 <td width="50%" valign="top">
@@ -148,7 +143,6 @@ Modernized a university research laboratory's web presence, transforming it from
 - 📊 **60% Faster Load Times** — Migrated to static generation with smart client-side data fetching
 - 🔧 **CMS Adapter Layer** — Built abstraction layer enabling future CMS migrations without app changes
 - 🤖 **Automated Pipeline** — CI/CD workflow with static build validation and preview deployments
-- 📈 **Serving 500+ MAU** — Eliminated runtime server dependencies for better reliability
 
 **Impact:** Dramatically improved user experience while reducing operational complexity.
 
@@ -251,9 +245,6 @@ Modernized a university research laboratory's web presence, transforming it from
 <table>
 <tr><td>
 
-**🎓 Session Lead & Technical Mentor** @ Udacity  
-`Nov 2025 - Present`  
-Leading computer fundamentals education and mentoring students in core CS concepts.
 
 **👨‍💻 Full Stack Developer** @ OPST Research Laboratory, Alexandria University  
 `May 2025 - Oct 2025`  
